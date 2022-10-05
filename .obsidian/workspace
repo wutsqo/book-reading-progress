@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Win Friends and Influence People.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Win Friends and Influence People.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Win Friends and Influence People.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Win Friends and Influence People.md"
+                "file": "README.md"
               }
+            }
+          },
+          {
+            "id": "d45e4dbb6529b754",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,7 +138,7 @@
   },
   "active": "bf6a83de75218482",
   "lastOpenFiles": [
-    "Francis Crowley.md",
-    "How to Win Friends and Influence People.md"
+    "How to Win Friends and Influence People.md",
+    "Francis Crowley.md"
   ]
 }
